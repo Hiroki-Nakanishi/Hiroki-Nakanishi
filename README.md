@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki-Nakanishi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki-Nakanishi&theme=neon&layout=compact)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroki-Nakanishi&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroki-Nakanishi&count_private=true&show_icons=true&theme=neon)
 ](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-Nakanishi&repo=Hiroki-Nakanishi&show_icons=true&theme=neon)
+](https://github.com/Hiroki-Nakanishi/Hiroki-Nakanishi)
 
 <!--
 **Hiroki-Nakanishi/Hiroki-Nakanishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
