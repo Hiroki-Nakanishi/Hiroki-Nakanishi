@@ -1,25 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki-Nakanishi&theme=neon&layout=compact)
-](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroki-Nakanishi&layout=compact&show_icons=true&theme=buefy" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Hiroki-Nakanishi&theme=buefy&show_icons=true" />
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroki-Nakanishi&count_private=true&show_icons=true&theme=neon)
-](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hiroki-Nakanishi&repo=Hiroki-Nakanishi&show_icons=true&theme=neon)
-](https://github.com/Hiroki-Nakanishi/Hiroki-Nakanishi)
-
-<!--
-**Hiroki-Nakanishi/Hiroki-Nakanishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍅
