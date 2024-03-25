@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<p align="left"> 
-  
-  
-</p>
 <table>
   <thead>
     <tr>
@@ -16,6 +12,5 @@
     </tr>
   </thead>
 </table>
-
 
 🍅
