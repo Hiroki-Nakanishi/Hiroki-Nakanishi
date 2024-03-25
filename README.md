@@ -1,9 +1,21 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats-eta-mocha-90.vercel.app/api?username=Hiroki-Nakanishi&show_icons=true&include_all_commits=true&theme=transparent" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-eta-mocha-90.vercel.app/api/top-langs/?username=Hiroki-Nakanishi&layout=compact&show_icons=true&include_all_commits=true&theme=transparent" />
+  
+  
 </p>
+<table>
+  <thead>
+    <tr>
+      <th align="center">
+        <img alt="Hiroki's Github Stats" src="https://github-readme-stats-eta-mocha-90.vercel.app/api?username=Hiroki-Nakanishi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
+      </th>
+      <th align="center">
+        <img alt="Hiroki's Top Langs" src="https://github-readme-stats-eta-mocha-90.vercel.app/api/top-langs/?username=Hiroki-Nakanishi&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
+      </th>
+    </tr>
+  </thead>
+</table>
 
 
 🍅
