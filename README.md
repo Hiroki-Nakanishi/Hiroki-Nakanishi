@@ -12,7 +12,7 @@
     </tr>
   </thead>
 </table>
-<img alt="Hiroki's Top Langs" style="max-width: 100%;" src="./profile-3d-contrib/profile-gitblock.svg" />
+<img alt="Hiroki's 3d Contrib" style="max-width: 100%;" src="./profile-3d-contrib/profile-gitblock.svg" />
 
 
 🍅
