@@ -1,6 +1,6 @@
 👋
 
-<table style="width: 100vw;">
+<table">
   <thead>
     <tr>
       <th align="center">
@@ -12,7 +12,7 @@
     </tr>
   </thead>
 </table>
-<img alt="Hiroki's Top Langs" style="max-width: 100%;" src="./profile-3d-contrib/profile-green-animate.svg" />
+<img alt="Hiroki's Top Langs" style="max-width: 100%;" src="./profile-3d-contrib/profile-gitblock.svg" />
 
 
 🍅
